@@ -1,2 +1,1 @@
-# masoncodes.github.io
-yete
+Hello world!
