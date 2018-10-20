@@ -1,3 +1,8 @@
-# Welcome
+# Welcome.
 
-My name is Mason. I am from Chicago. I am a high school senior.
+## Basic Information
+**Name:** Mason
+**From:** Chicago
+**Age:** 17
+I plan to major in Cybersecurity in college.
+
