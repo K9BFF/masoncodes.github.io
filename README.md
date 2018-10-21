@@ -1,12 +1,6 @@
 # Welcome.
 
-## Basic Information
+## Current Projects
 
-**Name:** Mason
-
-**From:** Chicago
-
-**Age:** 17
-
-I plan to major in Cybersecurity in college.
++ (no name yet): Chrome extension allowing the use of security keys. Still in planning stages because USPS wants to take their time.
 
