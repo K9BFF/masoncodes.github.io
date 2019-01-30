@@ -2,4 +2,4 @@
 
 ## Current Projects
 
-+ Hinata (ひなた): I don't even know anymore.
++ SickoBambaMode (w/ @jnstockley): School project that plays Sicko Mode and Mo Bamba, with the ability to change the volumes.
