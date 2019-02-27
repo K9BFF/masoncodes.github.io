@@ -4,4 +4,4 @@
 
 + [SickoBambaMode](https://github.com/jnstockley/sickoBambaMode) (w/ [@jnstockley](https://github.com/jnstockley)): School project that plays Sicko Mode and Mo Bamba, with the ability to change the volumes.
 
-+ Shadow Realm: Simple dark mode extension for Chrome
++ Shadow Realm: Simple dark mode extension for Chrome.
